@@ -1,0 +1,6 @@
+{
+  "name": "MMS AIR TRAVELS",
+  "description": "Reliable Travel Services for Every Journey. Flight bookings, bus bookings, and visa services. Serving travelers since 2020 with 49K+ happy customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
